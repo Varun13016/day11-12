@@ -1,0 +1,15 @@
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.exe
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.deps.json
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.dll
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.pdb
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.dll
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.pdb
+C:\Users\VARUN KUMAR\source\repos\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.genruntimeconfig.cache
